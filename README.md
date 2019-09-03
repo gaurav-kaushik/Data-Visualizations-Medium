@@ -16,7 +16,7 @@
 * code/Interactive\_ROC\_analysis.ipynb
 * code/accstats.py
 * code/roc\_pr\_curve.py
-* Post coming soon
+* Post on [HackerNoon](https://medium.com/hackernoon/making-sense-of-real-world-data-roc-curves-and-when-to-use-them-90a17e6d1db)
 
 
 --- 
